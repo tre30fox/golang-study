@@ -63,3 +63,4 @@ _testmain.go
 
 #eclipse
 .metadata
+.project
